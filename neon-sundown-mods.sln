@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quality_of_life", "testing\quality_of_life.csproj", "{95872C88-DF15-43D1-A84D-457768332399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95872C88-DF15-43D1-A84D-457768332399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95872C88-DF15-43D1-A84D-457768332399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95872C88-DF15-43D1-A84D-457768332399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95872C88-DF15-43D1-A84D-457768332399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4F59465-1166-4004-B8A2-AAA9CD729746}
+	EndGlobalSection
+EndGlobal
